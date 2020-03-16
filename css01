@@ -1,1 +1,10 @@
-
+h1 {
+   color      :red;
+   font-size  :3em;
+   font-family:Arial;
+}
+h {
+   color      :bule;
+   font-size  :3em;
+   font-family:Arial;
+}
