@@ -3,13 +3,4 @@ h1 {
    font-size  :3em;
    font-family:Arial;
 }
-h {
-   color      :green;
-   font-size  :3em;
-   font-family:Arial;
-}
-h1 {
-   color      :bule;
-   font-size  :3em;
-   font-family:Arial;
-}
+
