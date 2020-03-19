@@ -10,9 +10,10 @@ h2 {
 }
 h3 {
    color      :blue;
-   font-size  :2em; <div></div>
+   font-size  :2em; 
    font-family:Arial;
 }
+<div>
 div {
   background-color: lightred;
   width: 200px;
@@ -23,3 +24,4 @@ div {
   bottom: 0;
   right: 0;
 }
+</div>
