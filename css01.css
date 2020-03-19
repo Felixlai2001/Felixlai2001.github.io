@@ -17,7 +17,7 @@ div {
   background-color: yello;
   width: 200px;
   padding: 25px;
-  border: 25px solid red;
+  border: 25px  red;
   
   position: fixed;
   bottom: 200;
