@@ -20,6 +20,6 @@ div {
   border: 25px  red;
   
   position: fixed;
-  bottom: 200;
-  right: 300;
+  top: 0;
+  left: 0;
 }
