@@ -10,11 +10,11 @@ h2 {
 }
 h3 {
    color      :blue;
-   font-size  :2em;
+   font-size  :2em; <div></div>
    font-family:Arial;
 }
 div {
-  background-color: lightblue;
+  background-color: lightred;
   width: 200px;
   padding: 25px;
   border: 25px solid navy;
